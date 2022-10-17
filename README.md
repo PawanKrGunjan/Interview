@@ -1,3 +1,3 @@
 Interview
 
-Geek For Geeks PAT solotion
+Geek For Geeks PAT solution
